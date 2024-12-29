@@ -1,0 +1,8 @@
+# .envを無視する
+.env
+
+# node_modulesディレクトリを無視する
+node_modules/
+
+# package-lock.jsonを無視する
+package-lock.json
