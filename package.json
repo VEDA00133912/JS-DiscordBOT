@@ -1,0 +1,28 @@
+{
+  "name": "js-discordbot",
+  "version": "1.0.0",
+  "description": "JS-discordbot",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VEDA00133912/JS-DiscordBOT.git"
+  },
+  "keywords": [
+    "discord.js",
+    "template",
+    "javascript"
+  ],
+  "author": "りょう",
+  "bugs": {
+    "url": "https://github.com/VEDA00133912/JS-DiscordBOT/issues"
+  },
+  "homepage": "https://github.com/VEDA00133912/JS-DiscordBOT#readme"
+}
