@@ -1,5 +1,6 @@
 # JS-DiscordBOT
-javascriptのDiscordBOTのテンプレートです。
+javascriptのDiscordBOTのテンプレートです。<br>
+自分で簡単に機能を付け足しやすいように作ったつもりです
 # 実行
 1: ローカルにクローンします
 ```
